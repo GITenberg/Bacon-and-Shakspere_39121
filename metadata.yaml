@@ -1,0 +1,26 @@
+_repo: Bacon-and-Shakspere_39121
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burr, William Henry
+    birthdate: 1819
+    deathdate: 1908
+    gutenberg_agent_id: '39851'
+    url: http://www.gutenberg.org/2009/agents/39851
+description: ''
+gutenberg_issued: '2012-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Authorship -- Baconian theory'
+title: Bacon and Shakspere
+url: http://www.gutenberg.org/ebooks/39121
